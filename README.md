@@ -1,4 +1,4 @@
-# Eae, aqui é o Mateus Toledo! 👋
+# Eae, aqui é o Mateus Toledo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 📚 Em constante aprendizado...
 
